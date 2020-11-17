@@ -1,10 +1,10 @@
-
 public class BirinciGun {
 
 	public static void main(String[] args) {
 	
-		System.out.println("11:05 - Birinci Gün");
-		System.out.println("ikinci Gün");
+		System.out.println("11:05 - Birinci GÃ¼n");
+		System.out.println("Murat TANC");
+		System.out.println("ikinci GÃ¼n");
 
 	}
 
